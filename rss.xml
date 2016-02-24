@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sex With The Lights On]]></title>
+        <description><![CDATA[Sex With The Lights On]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 04:31:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Things First. I Love You]]></title>
+            <description><![CDATA[<article><h1>First Things First. I Love You</h1><p>Back story, my girlfriend has multiple online dating profiles and she really likes OK Cupid. She tells me about the app and the cool people she meets via OK Cupid, mostly platonic friends (women/men).</p></article>]]></description>
+            <link>undefinedfirst-things-first-i-love-you/index.html</link>
+            <guid isPermaLink="false">bb504f52-7f85-475e-b530-395e475b3586</guid>
+            <pubDate>Wed, 24 Feb 2016 04:31:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

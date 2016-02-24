@@ -1,0 +1,29 @@
+name: Sex With The Lights On
+favicon: null
+layout_spectrum: 0.322314880322665
+typography_spectrum: 0.6670071091502905
+title: Sex With The Lights On
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-73349047-5
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.03810590598732233
+  lightness: 0.4091371214017272
+  saturation: 0.11457847408019006
+  rhythmicContrast: 0.8023852279875427
+purpose: []
